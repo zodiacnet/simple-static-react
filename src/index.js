@@ -16,7 +16,9 @@ class HelloWorld extends Component{
             Run 'npm run build' before uploading your public directory to your website.
           </li>
         </ul>
-//	<iframe src='https://gfycat.com/ifr/SevereSmugHoneyeater' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/severesmughoneyeater"></a></p>
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/o0Zl3NwjGwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
       </div>
     )
   }
