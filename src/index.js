@@ -10,7 +10,7 @@ class HelloWorld extends Component{
     return (
       <div>
         <h1>Hello World.!!!</h1>
-        Don't forget to:
+        Don't forget to: smile :D
         <ul>
           <li>
             Run 'npm run build' before uploading your public directory to your website.
